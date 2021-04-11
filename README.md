@@ -12,3 +12,5 @@ In this git you will find individual files for the orbit simulation functions an
 
 We did our best, 
 Aerospace bois out.
+
+* Read the readNOW file before downloading
