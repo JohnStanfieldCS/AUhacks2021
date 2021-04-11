@@ -8,3 +8,12 @@ In this git you will find individual files for the orbit simulation functions an
 
 We did our best, 
 Aerospace bois out.
+
+
+* Please take a look through our functions as they took awhile to develope.
+
+Order of Operations: (Physical Download)
+  1. Download the MyAppInstaller_web.exe
+  2. Download the requiredFUNCTIONS zip file
+  3. open the zip file
+  4. open the exxecutable
