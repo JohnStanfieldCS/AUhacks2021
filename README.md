@@ -10,7 +10,8 @@ We decided to embrace our limited computer science knowledge and make tools for 
 
 In this git you will find individual files for the orbit simulation functions and an installer for a dedicated desktop app. This is not a required download as the simulation is also hosted on the domain. 
 
-We did our best, 
-Aerospace bois out.
 
 * Read the readNOW file before downloading
+
+
+Update: The OrbitalOwl project won the MATLAB award at the 2021 Auburn University Hackathon
