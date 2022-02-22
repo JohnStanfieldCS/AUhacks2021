@@ -1,6 +1,6 @@
 # AUhacks2021
 Auburn University Hackathon 2021
-Please visit our domain at https://orbitalowl.tech/
+Please visit our domain at https://orbitalowl.tech/ -- Website is not maintained as of 12/2021
 
 Reminder: 
 Eccentricity: 0-1 &
